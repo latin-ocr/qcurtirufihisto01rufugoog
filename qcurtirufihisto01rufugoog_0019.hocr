@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qcurtirufihisto01rufugoog_0019.png"; bbox 0 0 3150 4459; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 464 1399 986 1516">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 464 1399 986 1516">
+     <span class='ocr_line' id='line_1_1' title="bbox 464 1399 986 1516; baseline 0.004 -18"><span class='ocrx_word' id='word_1_1' title='bbox 464 1399 516 1516; x_wconf 76' lang='lat' dir='ltr'><strong>Q.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 550 1399 774 1501; x_wconf 79' lang='lat' dir='ltr'>OURTI</span> <span class='ocrx_word' id='word_1_3' title='bbox 811 1403 986 1503; x_wconf 82' lang='lat' dir='ltr'>RUFI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 571 1665 882 1734">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 571 1665 882 1734">
+     <span class='ocr_line' id='line_1_2' title="bbox 571 1665 882 1734; baseline 0.013 -3"><span class='ocrx_word' id='word_1_4' title='bbox 571 1665 882 1734; x_wconf 81' lang='lat' dir='ltr'><strong>HISTORIARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 239 1897 1207 2088">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 239 1897 1207 2088">
+     <span class='ocr_line' id='line_1_3' title="bbox 239 1897 1207 2088; baseline 0.005 -74"><span class='ocrx_word' id='word_1_5' title='bbox 239 1897 850 2019; x_wconf 74' lang='lat' dir='ltr'>ALEXANDRI‘</span> <span class='ocrx_word' id='word_1_6' title='bbox 888 1899 1207 2088; x_wconf 68' lang='lat' dir='ltr'><strong>MAGNI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 573 2183 876 2257">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 573 2183 876 2257">
+     <span class='ocr_line' id='line_1_4' title="bbox 573 2183 876 2257; baseline 0.007 -2"><span class='ocrx_word' id='word_1_7' title='bbox 573 2183 876 2257; x_wconf 77' lang='lat' dir='ltr'>MACEDONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 492 2560 962 2630">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 492 2560 962 2630">
+     <span class='ocr_line' id='line_1_5' title="bbox 492 2560 962 2630; baseline 0.009 -13"><span class='ocrx_word' id='word_1_8' title='bbox 492 2560 606 2619; x_wconf 89' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 630 2560 699 2630; x_wconf 84' lang='lat' dir='ltr'><strong>QUI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 723 2560 962 2621; x_wconf 77' lang='lat' dir='ltr'><strong>SUPERSUNT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1580 4459">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1580 4459">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1580 4459; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1580 4459; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
